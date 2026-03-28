@@ -1,4 +1,7 @@
 node_modules/
 wp-content/uploads/
 wp-content/cache/
+app/public/wp-content/ai1wm-backups/
+app/public/wp-content/cache/
+app/public/wp-content/uploads/
 .env

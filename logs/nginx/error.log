@@ -1,0 +1,1 @@
+2026/02/25 21:08:56 [error] 30352#11172: *314 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-cron.php?doing_wp_cron=1772050136.4814910888671875000000 HTTP/1.1", upstream: "fastcgi://127.0.0.1:10009", host: "trajko-prokopiev.local"
