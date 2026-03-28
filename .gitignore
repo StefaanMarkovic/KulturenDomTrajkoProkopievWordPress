@@ -1,0 +1,4 @@
+node_modules/
+wp-content/uploads/
+wp-content/cache/
+.env
